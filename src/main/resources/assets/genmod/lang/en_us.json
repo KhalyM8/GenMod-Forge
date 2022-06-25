@@ -1,0 +1,36 @@
+{
+  "item.genmod.cobalt_ingot": "Cobalt Ingot",
+  "item.genmod.cobalt_nugget": "Cobalt Nugget",
+  "item.genmod.raw_cobalt": "Raw Cobalt",
+  "item.genmod.dowsing_rod": "Dowsing Rod",
+  "item.genmod.coal_sliver": "Coal Sliver",
+  "item.genmod.turnip": "Turnip",
+  "item.genmod.cobalt_sword": "Cobalt Sword",
+  "item.genmod.cobalt_shovel": "Cobalt Shovel",
+  "item.genmod.cobalt_axe": "Cobalt axe",
+  "item.genmod.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.genmod.cobalt_hoe": "Cobalt Hoe",
+
+
+  "block.genmod.cobalt_block": "Cobalt Block",
+  "block.genmod.cobalt_ore": "Cobalt Ore",
+  "block.genmod.raw_cobalt_block": "Raw Cobalt Block",
+  "block.genmod.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+  "block.genmod.speedy_block": "Speedy Block",
+  "block.genmod.cobalt_stairs": "Cobalt Stairs",
+  "block.genmod.cobalt_slab": "Cobalt Slab",
+  "block.genmod.cobalt_button": "Cobalt Button",
+  "block.genmod.cobalt_pressure_plate": "Cobalt Pressure Plate",
+  "block.genmod.cobalt_fence": "Cobalt Fence",
+  "block.genmod.cobalt_fence_gate": "Cobalt Fence Gate",
+  "block.genmod.cobalt_wall": "Cobalt Wall",
+  "block.genmod.cherry_blossom_door": "Cherry Blossom Door",
+  "block.genmod.cherry_blossom_trapdoor": "Cherry Blossom Trap Door",
+
+  "itemGroup.modtab": "genmod Mod",
+
+  "item.genmod.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.genmod.dowsing_rod.tooltip.shift": "Right Click to find Valuables!",
+  "tooltip.genmod.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
+  "tooltip.block.speedy_block": "It gets REALLY speedy!"
+}

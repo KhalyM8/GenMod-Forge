@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : {"model":  "genmod:block/raw_cobalt_block"}
+  }
+}

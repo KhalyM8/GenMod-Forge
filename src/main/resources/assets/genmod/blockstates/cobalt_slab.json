@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "genmod:block/cobalt_slab"
+    },
+    "type=double": {
+      "model": "genmod:block/cobalt_block"
+    },
+    "type=top": {
+      "model": "genmod:block/cobalt_slab_top"
+    }
+  }
+}

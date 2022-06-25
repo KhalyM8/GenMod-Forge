@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : {"model":  "genmod:block/speedy_block"}
+  }
+}

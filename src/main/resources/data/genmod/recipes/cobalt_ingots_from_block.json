@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "genmod:cobalt_block"
+    }
+  ],
+  "result": {
+    "item": "genmod:cobalt_ingot",
+    "count": 9
+  }
+}

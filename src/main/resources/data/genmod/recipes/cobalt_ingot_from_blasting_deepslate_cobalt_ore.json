@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "genmod:deepslate_cobalt_ore"
+  },
+  "result": "genmod:cobalt_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "genmod:block/cobalt_block",
+    "top": "genmod:block/cobalt_block",
+    "side": "genmod:block/cobalt_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "genmod:cobalt_nugget"
+    }
+  },
+  "result": {
+    "item": "genmod:cobalt_ingot"
+  }
+}
